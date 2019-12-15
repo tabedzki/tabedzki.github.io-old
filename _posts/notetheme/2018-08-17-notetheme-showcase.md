@@ -1,7 +1,7 @@
 ---
 title: Some showcases with NoteTheme
 categories: [notetheme]
-tags: [jekyll,theme,notetheme]
+tags: [jekyll,theme,notetheme,BCP]
 maths: 1
 toc: 1
 comment: 1
